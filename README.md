@@ -16,4 +16,12 @@ These are my leet code solutions I practise on them everyday....
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/alviya-fatima/Leet-Code-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Math
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/alviya-fatima/Leet-Code-Solutions/tree/master/2485-find-the-pivot-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/alviya-fatima/Leet-Code-Solutions/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
